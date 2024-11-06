@@ -1,6 +1,5 @@
 # Servus Hi
 
-![Nananana](./200w.gif)
 ![Nananana](./image.png)
 
 
